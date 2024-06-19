@@ -2,20 +2,20 @@
 
 ### 👤 Acerca de mí 👤
 <ul>
-<li><b> Nombre👤: </b> Majo Sánchez </li>
-<li><b> Ubicación📍: </b> Querétaro 🇲🇽 </li>
-<li><b> Hobbies🎮: </b> Majo Sánchez </li>
-<li><b> Actualmente estoy aprendiendo🤓: </b> Desarrollo Web Frontend </li>
+<li><b> Nombre👤: </b> María José Pacheco Sánchez. </li>
+<li><b> Ubicación📍: </b> Querétaro 🇲🇽. </li>
+<li><b> Hobbies🎮: </b> Leer libros de romance, jugar videojuegos (PUBG Mobile, Call Of Duty, The Sims 4. </li>
+<li><b> Actualmente estoy aprendiendo🤓: </b> Desarrollo Web Frontend. </li>
 
 </ul>
 
 ### 📚 Cursos 📚
 <ul>
 
-<li><b> Curso 1: </b> Introducción a las Tecnologías Emergentes: Edición 2024 </li>
-<li><b> Curso 2: </b> Manejo de Hojas de Cálculo Básico II </li>
-<li><b> Curso 3: </b> Automanejo del Estrés </li>
-<li><b> Curso 4: </b> Desarrollo Web Frontend </li>
+<li><b> Curso 1: </b> Introducción a las Tecnologías Emergentes: Edición 2024. </li>
+<li><b> Curso 2: </b> Manejo de Hojas de Cálculo Básico II. </li>
+<li><b> Curso 3: </b> Automanejo del Estrés. </li>
+<li><b> Curso 4: </b> Desarrollo Web Frontend. </li>
 
 </ul>
 
