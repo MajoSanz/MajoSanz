@@ -21,9 +21,9 @@
 
 ### 🌐 Redes Sociales 🌐
 <div align="center">
-  <a href="https://www.instagram.com/_majosancheeez/" target="_blank"><img src="https://th.bing.com/th/id/R.7742981d5b7a464d4200a26eb5a6b512?rik=qaGbTlXYPYFajQ&pid=ImgRaw&r=0" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/majosaaanchez/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
-  <a href="mailto:majitosanz18@gmail.com"><img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" target="_blank"></a>
+  <a href="https://www.instagram.com/_majosancheeez/" target="_blank"><img src="https://th.bing.com/th/id/R.7742981d5b7a464d4200a26eb5a6b512?rik=qaGbTlXYPYFajQ&pid=ImgRaw&r=0" target="_blank" alt="instagram" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/majosaaanchez/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" alt="linkedin" width="40" height="40"></a> 
+  <a href="mailto:majitosanz18@gmail.com"><img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" target="_blank" alt="gmail" width="40" height="40"></a>
 </div>
 
 ### 💻 Lenguajes de Programación 💻
