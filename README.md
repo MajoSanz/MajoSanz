@@ -4,7 +4,7 @@
 <ul>
 <li><b> Nombre👤: </b> María José Pacheco Sánchez. </li>
 <li><b> Ubicación📍: </b> Querétaro 🇲🇽. </li>
-<li><b> Hobbies🎮: </b> Leer libros de romance, jugar videojuegos (PUBG Mobile, Call Of Duty, The Sims 4. </li>
+<li><b> Hobbies🎮: </b> Leer libros de romance, jugar videojuegos (PUBG Mobile, Call Of Duty, The Sims 4). </li>
 <li><b> Actualmente estoy aprendiendo🤓: </b> Desarrollo Web Frontend. </li>
 
 </ul>
